@@ -1,0 +1,13 @@
+color codes - 16 colors	-	Hexsa decimal colors [0-9 and a-f]
+-----------------
+#ff ff ff	-	white
+
+#ff 00 00	-	red
+#00 ff 00	-	green
+#00 00 ff	-	blue
+
+#00 ff ff	-	cyan
+#ff 00 ff	-	maganta
+#ff ff 00	-	yellow
+#00 00 00	-	black
+
